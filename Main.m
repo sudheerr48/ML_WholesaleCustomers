@@ -1,3 +1,7 @@
+%Naga Sudheer Ravela
+%About copyrights please mail me to sudheerr48@gmail.com
+%Dataset is retrieved from UCI Machine Learning Repository found at https://archive.ics.uci.edu/ml/datasets/wholesale+customers
+%Dataset copyrights to Margarida G. M. S. Cardoso, margarida.cardoso '@' iscte.pt, ISCTE-IUL, Lisbon, Portugal
 clc;
 close all;
 clear all;
